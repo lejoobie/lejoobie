@@ -1,4 +1,6 @@
 ### Hello, I'm Jon.
+I'm a 19 y/o with an Associates Degree in Web/Computer Programming.
+I love to experiment with full-stack development.
 #### Interests
 - JavaScript & Node.JS
 - BASH & C Programming
