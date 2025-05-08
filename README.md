@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @lejoobie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hello, I'm Jon.
+#### Interests
+- JavaScript & Node.JS
+- BASH & C Programming
+- Lua
+#### Bucket List Learning
+- React JS
+- BASH & C (Linux in general)
+#### Bucket List Projects
+- Discord Bot (Node.JS)
+- Inventory Management System (C)
+- Roblox Game (Lua)
 
 <!---
 lejoobie/lejoobie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
